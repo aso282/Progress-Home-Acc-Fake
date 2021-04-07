@@ -7387,7 +7387,7 @@ message.member.voiceChannel
 
 //تۆكینه‌كان لێره‌ جا بنێ
 
-client.login("");
+client.login("https://media.discordapp.net/attachments/654999835547795486/668574640922296330/image0.jpg?width=616&height");
 client2.login("");
 client3.login("");
 client4.login("");
